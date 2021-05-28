@@ -1,5 +1,7 @@
 
-
+form{
+  height: 400px;
+}
 .jumbotron-fluid {
     background-image: linear-gradient(100deg, #4d3bad, #785aee);
     margin-bottom:0rem!important;
@@ -252,7 +254,7 @@ h5{
     }
   }
   form{
-    height: 600px;
+    height: 600px !important;
   }
 
 }
@@ -265,6 +267,3 @@ h5{
     
     }
   }
-form{
-  height: 400px;
-}
