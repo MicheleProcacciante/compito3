@@ -286,4 +286,9 @@ h5 {
     display: block;
   }
 }
+
+.form-control {
+  padding-left: 26px !important;
+  margin-left: 20px;
+}
 /*# sourceMappingURL=main.css.map */
